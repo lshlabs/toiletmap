@@ -1,8 +1,8 @@
 {
   "projects": {
-    "dev": "toiletmap-dev",
-    "prod": "toiletmap-prod"
-  }
+    "dev": "toiletmap-hu2chaso-dev",
+    "prod": "toiletmap-hu2chaso-prod"
+  },
+  "targets": {},
+  "etags": {}
 }
-
-
