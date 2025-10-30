@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "dev": "toiletmap-dev",
+    "prod": "toiletmap-prod"
+  }
+}
+
+
