@@ -6,7 +6,6 @@
 - cloud_firestore
 - firebase_storage
 - google_sign_in
-- sign_in_with_apple
 
 ## 초기화 예시
 ```dart

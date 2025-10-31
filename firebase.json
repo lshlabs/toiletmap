@@ -4,7 +4,9 @@
     "rules": "infra/firebase/firestore.rules",
     "indexes": "infra/firebase/firestore.indexes.json"
   },
-  "storage": { "rules": "infra/firebase/storage.rules" },
+  "storage": {
+    "rules": "infra/firebase/storage.rules"
+  },
   "emulators": {
     "auth": { "host": "127.0.0.1", "port": 9099 },
     "functions": { "host": "127.0.0.1", "port": 5001 },
