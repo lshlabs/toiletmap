@@ -98,6 +98,7 @@ firebase deploy --only storage:rules
 ## 문서
 
 - [데이터 모델](./docs/DATA_MODEL.md): Firestore 컬렉션 및 필드 정의
+- [API 참조](./docs/API_REFERENCE.md): Cloud Functions API 사용 방법
 - [Flutter 연동 가이드](./docs/FLUTTER_INTEGRATION.md): Flutter 앱에서 Firebase 사용 방법
 - [Firebase 인프라 README](./infra/firebase/README.md): Firebase 인프라 상세 가이드
 
